@@ -1,0 +1,297 @@
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: -1.912160, y: -2.232608
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: -1.192873, y: 1.278444
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 2.923492, y: -3.510016
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: 0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: 0.000000, f2: -0.000000
+
+solution    x: 1.781541, y: 2.064179
+accuration  f1: -0.000000, f2: -0.000000
+
